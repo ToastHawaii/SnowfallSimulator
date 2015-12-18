@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowfallSimulator", "SnowfallSimulator\SnowfallSimulator.csproj", "{A003B70F-9DFA-4B55-9A92-5AF3FE391005}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowfallSimulator", "SnowfallSimulator.csproj", "{A003B70F-9DFA-4B55-9A92-5AF3FE391005}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
